@@ -41,3 +41,13 @@ Computer Networking            ██████░░░░
 Digital Forensics              █████░░░░░
 SOC & Incident Response        ████░░░░░░
 Frontend Development           ████████░░
+
+🔐 Cybersecurity Skills I’m Developing
+<p align="left"> <img src="https://img.shields.io/badge/Linux-Command%20Line-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-Fundamentals-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Digital%20Forensics-Learning-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Incident%20Response-Learning-DC2626?style=flat-square"/> <img src="https://img.shields.io/badge/SOC%20Operations-Learning-0891B2?style=flat-square"/> <img src="https://img.shields.io/badge/OSINT-Basics-4F46E5?style=flat-square"/> <img src="https://img.shields.io/badge/Vulnerability%20Analysis-Basics-F97316?style=flat-square"/> </p>
+💻 Development & Design Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,python,c,php"/> </p>
+Frontend & Design
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,ts,figma,wordpress"/> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql"/> </p>
