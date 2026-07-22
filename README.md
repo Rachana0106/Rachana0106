@@ -1,44 +1,43 @@
+<div align="center">
 
-<!--
-**Rachana0106/Rachana0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Rachana Makwana 👋
 
-Here are some ideas to get you started:
+### Cybersecurity & Digital Forensics Student  
+### Frontend Developer • UI/UX Enthusiast • Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Rachana 👋
+📍 Ahmedabad, Gujarat, India
 
-🌍Web Developer based in Gujarat, India  
+I enjoy exploring how digital systems work, how security incidents happen,
+and how technology can be made both secure and user-friendly.
 
-I enjoy building clean, user-friendly, and visually appealing web interfaces.  
-Currently focused on improving my frontend skills and creating better UI experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana%20Makwana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachanamakwana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rachana0106.github.io/rachana-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachanam0106@gmail.com)
 
-## 🚀 Tech Stack
+</div>
 
-- ⚛️ React  
-- 🎨 Figma  
-- 🌐 WordPress  
-- 💨 Tailwind CSS  
-- ✨ Framer Motion  
-- 🟦 TypeScript
- 
-## 💡 What I Do
+---
 
-- Build responsive and modern web UIs  
-- Create smooth animations and interactions  
-- Design user-friendly interfaces
-  
-## 📈 Currently Working On
+## 👩‍💻 About Me
 
-- Improving frontend development skills  
-- Building projects with better UI/UX  
-- Exploring animations and creative designs  
+- 🎓 MCA student at LJ Institute of Computer Applications
+- 🔐 Specializing in Cybersecurity
+- 🔎 Interested in Digital Forensics, Incident Response and SOC Operations
+- 💻 Experienced in Frontend Development and responsive web design
+- 🎨 Interested in UI/UX, creative interfaces and accessible design
+- 🐧 Currently learning Linux, Networking and security fundamentals
+- 🧪 Building practical cybersecurity and digital-forensics projects
+- 🌱 Learning through Coursera, TryHackMe, workshops and hands-on labs
+- 🤝 Open to internships, student collaborations and beginner-friendly security projects
 
-⭐ *Always learning, always building*
+---
+
+## 🎯 Current Focus
+
+```text
+Cybersecurity Fundamentals     ███████░░░
+Linux & Command Line           ██████░░░░
+Computer Networking            ██████░░░░
+Digital Forensics              █████░░░░░
+SOC & Incident Response        ████░░░░░░
+Frontend Development           ████████░░
